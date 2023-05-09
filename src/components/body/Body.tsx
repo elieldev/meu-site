@@ -184,7 +184,7 @@ export default function Body() {
                     <br></br>
                 </p>
                 <div className={styles.creditos}>
-                        Site todo desenvolvido em ReactJs. Código disponível no meu <a href="https://github.com/elieldev/portfolio" target="_blank" className={styles.linkGit}>GitHub</a>.
+                        Site todo desenvolvido em ReactJs. Código disponível no meu <a href="https://github.com/elieldev/meu-site" target="_blank" className={styles.linkGit}>GitHub</a>.
                 </div>
             </div>
         </div>
