@@ -21,4 +21,4 @@ git add -A
 git commit -m 'deploy'
 
 # Push the repository to the gh-pages branch
-git push -f git@github.com:elielsf/meu-site.git master:gh-pages
+git push -f git@github.com:elieldev/meu-site.git master:gh-pages
