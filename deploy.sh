@@ -13,7 +13,7 @@ cd build
 git init
 
 # Configure Git user
-git config user.name "elieldev"
+git config user.name "elielsf"
 git config user.email "elielasf@hotmail.com"
 
 # Add and commit all changes
@@ -21,4 +21,4 @@ git add -A
 git commit -m 'deploy'
 
 # Push the repository to the gh-pages branch
-git push -f git@github.com:eliedev/meu-site.git master:gh-pages
+git push -f git@github.com:elielsf/meu-site.git master:gh-pages
