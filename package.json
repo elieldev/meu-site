@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://elieldev.github.io/meu-site",
   "scripts": {
-    "deploy": "bash deploy.sh",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
