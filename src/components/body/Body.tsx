@@ -118,7 +118,7 @@ export default function Body() {
                     <h2>Portuguese</h2>
                     <p className={styles.textoPt}>
                         <b>Olá,</b> <br></br> 
-                        Meu nome é Eliel, sou graduando em Ciência da Computação, tenho 19 anos e sou desenvolvedor front-end Júnior com experiência em JavaScript, React e API.<br></br>
+                        Meu nome é Eliel, estou me graduando em Ciência da Computação, tenho 19 anos e sou desenvolvedor front-end Júnior com experiência em JavaScript, React e API.<br></br>
                         Estou em busca de uma oportunidade de trabalho na área de tecnologia, aberto para novos desafios e linguagens de
                         programação. Apesar de ter experiência apenas em JS, tenho facilidade na assimilação de novos conceitos, vontade de aprender e
                         estou disposto a trabalhar com qualquer tecnologia, seja back ou front-end. Procuro por um trabalho no qual consiga evoluir
